@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="InvoiceVarianceChecker.Api/InvoiceVarianceChecker.Api.csproj" />
+  <Project Path="InvoiceVarianceChecker.Tests/InvoiceVarianceChecker.Tests.csproj" />
+</Solution>
